@@ -1,0 +1,52 @@
+.circle {
+  border-radius: 50%;
+}
+
+img {
+  background-color: blue;
+}
+
+.cred {
+  background-color: orangered;
+}
+.cred:hover {
+  background-color: rgb(172, 88, 88);
+}
+.cgray {
+  background-color: gray;
+}
+.cgray:hover {
+  background-color: rgb(177, 177, 177);
+}
+
+.cblue {
+  background-color: blue;
+}
+.cblue:hover {
+  background-color: rgb(52, 52, 148);
+}
+.cblack {
+  background-color: black;
+}
+.cblack:hover {
+  background-color: rgb(73, 73, 73);
+}
+.center {
+  text-align: center;
+}
+
+/* .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+.centered {
+  margin: auto;
+}
+
+.button {
+  border-radius: 5px;
+  color: white;
+}
+/*<h2 class="center centered" style="color: white">hello</h2>*/
